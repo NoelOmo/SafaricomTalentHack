@@ -6,9 +6,9 @@ public class Constants {
     public static final String REGISTRATION_PAGE_TITLE = "Create New Customer Account";
     public static final String FIRSTNAME = "Noel";
     public static final String LASTNAME = "Omondi";
-    public static final String MOBILE = "0701045750";
-    public static final String EMAIL = "noel.omondiask@gmail.com";
-    public static final String PASSWORD = "Pa66word!!";
+    public static final String MOBILE = "**********";
+    public static final String EMAIL = "noel.*******@gmail.com";
+    public static final String PASSWORD = "********";
 
     //Login
     public static final String LOGIN_PAGE_TITLE = "Customer Login";
